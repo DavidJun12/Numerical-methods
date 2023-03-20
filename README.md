@@ -1,2 +1,1 @@
-# bisection
-python bisection method for finding roots of a non-linear equation
+# Finding roots of nonlinear funtions using Bisection and Newton Raphson method and their implementation using python
